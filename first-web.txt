@@ -1,2 +1,3 @@
 WEB APP Pertama Saya
 HTML, CSS & JavaScript
+ChatGPT & ClaudeAI
