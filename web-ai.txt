@@ -2,3 +2,7 @@ Tambah AI
 -ChatGPT
 -ClaudeAI
 NotebookLM & Gamma
+  *Brave
+  *Chrome
+
+
