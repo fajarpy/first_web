@@ -2,3 +2,5 @@ Tambah AI
 -ChatGPT
 -ClaudeAI
 NotebookLM & Gamma
+  *Microsoft
+  *Chrome
