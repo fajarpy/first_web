@@ -1,3 +1,4 @@
 Tambah AI
 -ChatGPT
-ClaudeAI
+-ClaudeAI
+NotebookLM & Gamma
